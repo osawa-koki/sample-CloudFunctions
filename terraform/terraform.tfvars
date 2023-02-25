@@ -1,1 +1,1 @@
-project_name = "sample-cloud-functions"
+project_name = "happy-new-year-project"
